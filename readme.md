@@ -14,7 +14,7 @@ Peruvian rice dataset ("Dataset de arroz peruano") on Kaggle, uploaded by Cristh
 - One folder per class, with Spanish names: `entero` (whole), `mancha` (stain), `quebrado` (broken), `tiza` (chalk).
   The scripts translate these to English automatically (use `--keep-spanish` to turn that off).
 - The dataset is **not included** in this project. Download it yourself and note the license on its Kaggle page.
-- Capture conditions, image size and license: *[add from the Kaggle page]*
+- Capture conditions, image size and license: *https://www.kaggle.com/datasets/cristhiansempertegui/dataset-de-arroz-peruano*
 
 ## Project structure
 
