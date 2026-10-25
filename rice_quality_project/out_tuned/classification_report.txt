@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+      broken       0.90      0.94      0.92       158
+       chalk       0.82      0.89      0.86       276
+       stain       0.92      0.96      0.94       171
+       whole       0.90      0.78      0.84       300
+
+    accuracy                           0.88       905
+   macro avg       0.89      0.90      0.89       905
+weighted avg       0.88      0.88      0.88       905

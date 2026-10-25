@@ -1,0 +1,6 @@
+{
+  "best_model": "Random Forest",
+  "chosen_by": "highest mean CV kappa",
+  "folds": 5,
+  "n_train": 3620
+}

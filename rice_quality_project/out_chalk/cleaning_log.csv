@@ -1,0 +1,6 @@
+step,rows,removed
+images found,6599,0
+removed unreadable/corrupt files,6598,1
+removed exact duplicate files,6119,479
+same image under two classes (label conflicts),6119,0
+cap at 1500 images per class,4525,0

@@ -1,0 +1,14 @@
+{
+  "model": "Random Forest",
+  "n_test": 905,
+  "classes": [
+    "broken",
+    "chalk",
+    "stain",
+    "whole"
+  ],
+  "accuracy": 0.876243093922652,
+  "precision_macro": 0.8821886539716124,
+  "recall_macro": 0.8908396093425639,
+  "kappa": 0.8313499986689029
+}
